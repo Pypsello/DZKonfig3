@@ -1,0 +1,9 @@
+<config>
+    <comment>Это многострочный комментарий</comment>
+    <dict name="exampleDict">
+        <item name="key1">value1</item>
+        <item name="key2">42</item>
+    </dict>
+    <const name="exampleConst">100</const>
+    <compute name="exampleConst"/>
+</config>
